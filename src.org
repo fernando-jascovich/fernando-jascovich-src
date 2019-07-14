@@ -1,0 +1,37 @@
+#+HUGO_BASE_DIR: .
+#+HUGO_SECTION: /
+#+HUGO_WEIGHT: auto
+#+HUGO_AUTO_SET_LASTMOD: t
+* About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: about
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout "single"
+:END:
+I'm Fernando Jascovich and this is my personal website, a little space for blogging and sharing some stuff, mostly geeky things related (somehow) to programming.
+
+I have a very close relationship with computers, spending the majority of my daily hours in front of one of them. Since I have memories I can recall being next to a computer, interacting with a computer. Right now I am having a really good time working everyday as a software developer. I had been lucky enough to find a job that I love.
+
+I hope that some of the contents available here will be useful somehow to someone at sometime. Be my guest.
+* Blog
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :layout "single"
+:END:
+** android-env.el -> My first Melpa pkg                         :melpa:emacs:android:
+:PROPERTIES:
+:EXPORT_FILE_NAME: index
+:EXPORT_DATE: 2019-05-05
+:EXPORT_HUGO_BUNDLE: android-env
+:END:
+I got published my first package to [Melpa](https://melpa.org/#/android-env).
+
+[android-env](https://github.com/fernando-jascovich/android-env.el) is a helper for those eager to do Android using Emacs. I know, is not the mainstream way to do it, but Emacs is my home.
+
+[[./assets/android-env-hydra.jpg]]
+
+Is a tiny little thing but it really helps me on my daily work. Thanks to [Chris Rayner](https://github.com/riscy) and [Steve Purcell](https://github.com/purcell) for being so helpful and guiding me into know a little about elisp standards.
+
+PR on melpa: [PR #6084](https://github.com/melpa/melpa/pull/6084).
+
+P.S.: Here is a relevant thread on reddit: [anyone_doing_android_development](https://www.reddit.com/r/emacs/comments/bgnj35/anyone_doing_android_development/)

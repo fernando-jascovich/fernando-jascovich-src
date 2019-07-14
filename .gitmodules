@@ -1,0 +1,6 @@
+[submodule "themes/er"]
+	path = themes/er
+	url = https://github.com/lingxz/er
+[submodule "public"]
+	path = public
+	url = git@github.com:fernando-jascovich/fernando-jascovich.github.io

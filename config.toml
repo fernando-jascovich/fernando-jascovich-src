@@ -1,0 +1,27 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "xfel"
+theme = "er"
+googleAnalytics = "UA-123456789-1"
+enableEmoji = false
+copyright = ""
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  dateFormat = "Jan 2, 2006"
+
+[menu]
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+
+[[menu.main]]
+  name = "About"
+  url = "/about"
