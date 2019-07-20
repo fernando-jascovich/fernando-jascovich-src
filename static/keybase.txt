@@ -1,0 +1,57 @@
+
+==================================================================
+https://keybase.io/fjascovich
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://fernando-jascovich.github.io
+  * I am fjascovich (https://keybase.io/fjascovich) on keybase.
+  * I have a public key ASDs0SUQlpo-I9vP9bXd-wmLlY6G_-Xe_Wy8O-p-MwLOvwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ecd12510969a3e23dbcff5b5ddfb098b958e86ffe5defd6cbc3bea7e3302cebf0a",
+      "host": "keybase.io",
+      "kid": "0120ecd12510969a3e23dbcff5b5ddfb098b958e86ffe5defd6cbc3bea7e3302cebf0a",
+      "uid": "ef887d73e4ca009646828c809d6f5d19",
+      "username": "fjascovich"
+    },
+    "merkle_root": {
+      "ctime": 1563217155,
+      "hash": "2900b965cc409e742e67563c837768c549fa96ce21fe4a26c3318c09edd4596e2413b1b253e5a3720f5068dce4122968a5135f0cf77f335499855b875360b33f",
+      "hash_meta": "14dda3b6d6e7047105822478ae6390b0d4bcc532c2824470e207f931897d14cb",
+      "seqno": 5768133
+    },
+    "service": {
+      "entropy": "cMWymCbMOymvOasxu/sQ+Vea",
+      "hostname": "fernando-jascovich.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1563217251,
+  "expire_in": 504576000,
+  "prev": "d8c4e58cf9ed93acc5d383998aa98c694be0280723415e6765c80760aa09c2c3",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7NElEJaaPiPbz/W13fsJi5WOhv/l3v1svDvqfjMCzr8Kp3BheWxvYWTESpcCE8Qg2MTljPntk6zF04OZiqmMaUvgKAcjQV5nZcgHYKoJwsPEIHBej/C2dELBSk4WmhG/JsPs+8GW0ST2a2l76LhFpKXEAgHCo3NpZ8RAuQNsrY2ydE2lfJdYv1HmYZjYMhf/4H+MscpfQ8+1CV15kdaEwB271p851driR15UwqMdiiVFg6sn+JeKU9u6D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIRv+uqP5o6Wk9fwNMtE7ABbXp4ovzhHlNNLxXSx7yu1o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/fjascovich
+
+==================================================================

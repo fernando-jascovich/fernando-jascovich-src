@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["Fernando Jascovich"]
-lastmod = 2019-07-14T00:36:11-03:00
+lastmod = 2019-07-20T01:02:11-03:00
 draft = false
 weight = 1001
 layout = "single"
