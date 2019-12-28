@@ -2,7 +2,7 @@
 title = "android-env.el -> My first Melpa pkg"
 author = ["Fernando Jascovich"]
 date = 2019-05-05
-lastmod = 2019-07-20T13:57:19-03:00
+lastmod = 2019-12-28T15:40:49-03:00
 tags = ["melpa", "emacs", "android"]
 draft = false
 weight = 2002
